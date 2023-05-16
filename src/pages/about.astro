@@ -1,0 +1,129 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
+---
+
+<BaseLayout
+  title="About |Thiry Maximilien"
+  description="About Thiry Maximilien"
+>
+  <div class="stack gap-20">
+    <main class="wrapper about">
+      <Hero
+        title="A Propos de Moi"
+        tagline="Voici mon histoire et mon parcours."
+      >
+        <img width="1553" height="873" src="/assets/portrait.jpg" alt="me" />
+      </Hero>
+
+      <section>
+        <h2 class="section-title">A mon sujet</h2>
+        <div class="content">
+          <p>
+            Je me présente, Thiry Maximilien, j'ai 33 ans et je viens des
+            Ardennes. J'ai travaillé dans plusieurs entreprises de restauration
+            tout en effectuant des petits boulots. Cependant, pendant la période
+            du Covid, j'ai décidé de changer de voie professionnelle et de me
+            lancer dans des domaines qui me plaisent, à savoir le design et le
+            développement web.
+          </p>
+          <p>
+            En 2022, j'ai suivi une formation de Concepteur UI et j'ai obtenu
+            mon diplôme Bac+4 Concepteur UI (RNCP). En décembre, j'ai également
+            suivi une formation d'initiation à la Wild Code School pour acquérir
+            de nouvelles compétences en développement web. Et depuis fin février
+            et jusqu'en décembre 2023, je suis actuellement en formation en tant
+            que Développeur Web à la Wild Code School.
+          </p>
+          <p>
+            Vous pouvez trouver un lien pour télécharger mon CV et je reste
+            disponible pour information et aussi, pour un entretien .
+          </p>
+        </div>
+      </section>
+      <section>
+        <h2 class="section-title">Formation</h2>
+        <div class="content">
+          <p>
+            <strong>2023</strong>- <em> Developpeur Web - Wild Code School</em>
+          </p>
+          <strong>2022</strong>- <em> Concepteur UI - ID Formation</em>
+        </div>
+      </section>
+      <section>
+        <h2 class="section-title">Diplome</h2>
+        <div class="content">
+          <p>
+            <strong>2022</strong>- <em> Bac+4 (RNCP) Concepteur UI</em>
+          </p>
+        </div>
+      </section>
+    </main>
+    <a
+      href="https://drive.google.com/file/d/1QGodbQn1aAX615Zta6WiUpLbk1X9_jsi/view?usp=sharing"
+      >Télécharger mon CV</a
+    >
+
+    <ContactCTA />
+  </div>
+
+  <style>
+    .about {
+      display: flex;
+      flex-direction: column;
+      gap: 3.5rem;
+    }
+
+    img {
+      margin-top: 1.5rem;
+      border-radius: 1.5rem;
+      box-shadow: var(--shadow-md);
+    }
+
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      color: var(--gray-200);
+    }
+
+    .section-title {
+      grid-column-start: 1;
+      font-size: var(--text-xl);
+      color: var(--gray-0);
+    }
+
+    .content {
+      grid-column: 2 / 4;
+    }
+
+    .content :global(a) {
+      text-decoration: 1px solid underline transparent;
+      text-underline-offset: 0.25em;
+      transition: text-decoration-color var(--theme-transition);
+    }
+
+    .content :global(a:hover),
+    .content :global(a:focus) {
+      text-decoration-color: currentColor;
+    }
+
+    @media (min-width: 50em) {
+      .about {
+        display: grid;
+        grid-template-columns: 1fr 60% 1fr;
+      }
+
+      .about > :global(:first-child) {
+        grid-column-start: 2;
+      }
+
+      section {
+        display: contents;
+        font-size: var(--text-lg);
+      }
+    }
+  </style>
+</BaseLayout>
