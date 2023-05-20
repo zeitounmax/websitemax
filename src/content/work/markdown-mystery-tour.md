@@ -14,9 +14,19 @@ tags:
 
 ## La maison des Conseils Citoyens :
 
-Création d'un site internet pour une association lors d'un stage de 5 semaines.
-Le site a était réalisé avec Wordpress avec des notions de CSS apris lors de ma formation de Concepteur UI en 2022 .
-Pour la réalisation du site, j'ai du faire un Wireframe,un prototype et ensuite,le site en lui-même .
+La Maison des Conseils Citoyens est un projet de création d'un site internet pour une association, réalisé lors d'un stage de 5 semaines.
+
+Le site a été développé en utilisant Wordpress, une plateforme de gestion de contenu très populaire. Pour personnaliser l'apparence du site, j'ai utilisé des notions de CSS que j'ai apprises lors de ma formation de Concepteur UI en 2022.
+
+Le processus de réalisation du site a suivi les étapes suivantes :
+
+   - Wireframe : J'ai créé une représentation visuelle de la structure et de la disposition des éléments du site, afin de planifier son design et son ergonomie.
+
+   - Prototype : J'ai élaboré un prototype interactif du site pour présenter les fonctionnalités, la navigation et l'expérience utilisateur attendue.
+
+   - Développement du site : À partir du wireframe et du prototype, j'ai mis en place les différentes sections du site, en ajoutant le contenu et en appliquant les styles CSS pour harmoniser l'apparence visuelle.
+
+En utilisant Wordpress, j'ai pu bénéficier de ses fonctionnalités prêtes à l'emploi, telles que la gestion des pages, des articles, des formulaires de contact, etc. Cela a permis de faciliter le processus de création du site.
 
 ## Le protoype Figma :
 
@@ -25,3 +35,5 @@ Pour la réalisation du site, j'ai du faire un Wireframe,un prototype et ensuite
 ## Lien vers le site :
 
 - Lien vers le site : https://www.lamaisondesconseilscitoyens.fr
+
+Si vous souhaitez en savoir plus sur le projet de la Maison des Conseils Citoyens ou si vous avez des questions supplémentaires, n'hésitez pas à me le faire savoir.
