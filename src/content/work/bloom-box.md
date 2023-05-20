@@ -17,7 +17,7 @@ tags:
 
 <a href="https://ibb.co/Pg2GMSZ"><img src="https://i.ibb.co/tD0pzdM/Capture-d-cran-du-2023-05-15-18-31-18.png" alt="Capture-d-cran-du-2023-05-15-18-31-18" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br />
 
-WildEats est un premier projet qui a était réalisé dans le cadre des trois projets de formations. Le projet est un annuaire des meilleurs restaurants qui sont dans les alentours.
+WildEats est un premier projet qui a été réalisé dans le cadre de ma formation, comprenant trois projets au total. Ce projet se présente sous la forme d'un annuaire des meilleurs restaurants se trouvant dans les environs.
 
 ### Language de code utilisé ?
 
@@ -29,3 +29,5 @@ WildEats est un premier projet qui a était réalisé dans le cadre des trois pr
 Lien vers la page du projet : <https://zeitounmax.github.io/Wildeats-/>
 
 Lien vers la page du github :<https://github.com/zeitounmax/Wildeats->
+
+Si vous souhaitez en savoir plus sur WildEats ou si vous avez des questions supplémentaires, n'hésitez pas à me le faire savoir.
