@@ -1,7 +1,7 @@
 ---
 title: La Maison des Conseils Citoyens
 publishDate: 2022-07-02 00:00:00
-img: /public/logola.png
+img: /logola.png
 img_alt: Logo du site web, la maison des conseils citoyens.Il y a 4 maisons pour représenter les quatres quartiers que l'association a .
 description: |
   Site Web de l'association de la maison du conseils citoyens de Charleville-Mézières
