@@ -1,7 +1,7 @@
 ---
 title: Wild Eats
 publishDate: 2023-03-02 00:00:00
-img: /assets/Logo-rond.png
+img: /public/Logo-rond.png
 img_alt: Logo rond du projet avec une fourchette et une cullière.
 description: |
   Premier projet fait à la Wild Code School. Wild Eats est un site qui permets de choisir le restaurant qui vous plait au alentour du campus
