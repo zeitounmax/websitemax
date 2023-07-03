@@ -12,6 +12,14 @@ tags:
  
 ---
 
+
+## Chez Ruri 
+
+Prototype réalisé sous Figma. Création pour le plaisir. J'ai imaginé comme scénario la création d'une maquette pour une boutique de fleurs . 
+<a href="https://www.figma.com/file/RkGl0wIXOUfYNblWQ6gd5l/Chez-Ruri?type=design&node-id=1%3A2&mode=design&t=hXAL8uMgDbCIj1fN-1"><img src = "/ruri.png"
+alt= "ruri logo"
+/> </a>
+
 ## RecyTech 
 
 Prototype réalisé sous Figma. J'avais fait le Wireframe pour le Hackathon 2 organisé par la Wild Code School et Emmaüs Connect . Je voulais pas rester en si bon chemin, j'ai décidé pendant la pause du midi au premier jour et à mon retour de, à titre personnel le prototype de ce dernier . 
